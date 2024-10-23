@@ -54,6 +54,7 @@ QR Code Generator Interface (screenshots/qr-generator.png)
 
 **Supriyandi La Awe (Yand)**
 - GitHub: [@yand06](https://github.com/yand06)
+- Email : supriyandilaawe@gmail.com
 - Project URL: [https://github.com/yand06/QRCodeGenerator](https://github.com/yand06/QRCodeGenerator)
 
 ## 📝 License
