@@ -18,7 +18,7 @@ QR Code Generator is a desktop application that allows users to create QR Codes 
 ## 🛠️ Created With
 
 - [Java](https://www.java.com/) - Programming Language
-- [JavaFX/Swing](https://openjfx.io/) - GUI Framework
+- [Javax Swing](https://openjfx.io/) - GUI Framework
 - [ZXing](https://github.com/zxing/zxing) - QR Code Generator Library
 - [NetBeans IDE](https://netbeans.apache.org/) - Development Environment
 
